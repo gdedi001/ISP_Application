@@ -1,0 +1,2 @@
+\\buffalo.cs.fiu.edu\homes\Desktop\COP_4005\Chp4_Challenge\Chp4_Challenge\bin\Debug\Chp4_Challenge.exe.config
+C:\Users\G\Desktop\COP4005\Chp4_Challenge\Chp4_Challenge\bin\Debug\Chp4_Challenge.exe.config

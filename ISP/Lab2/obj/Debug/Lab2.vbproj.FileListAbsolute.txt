@@ -1,0 +1,11 @@
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\bin\Debug\Chp4_Challenge.exe.config
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\bin\Debug\Chp4_Challenge.exe
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\bin\Debug\Chp4_Challenge.pdb
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\bin\Debug\Chp4_Challenge.xml
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\Chp4_Challenge.exe
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\Chp4_Challenge.xml
+C:\Users\G\Desktop\COP4005\Lab2\Lab2\obj\Debug\Chp4_Challenge.pdb
